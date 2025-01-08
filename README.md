@@ -38,4 +38,5 @@ Setup Instructions:
 5. Test the Rover: Power up the rover, and run the scripts to test the sensor data, camera feed, and motor movement.
 
 This project is an autonomous rover designed using a Raspberry Pi, equipped with a proximity sensor and a camera module. The rover is capable of navigating and avoiding obstacles using real-time data from the proximity sensor, while also offering the ability to capture images or video feeds through the camera module.
-![Rover Setup](./images/rover-setup.jpg)
+
+![Rover Setup](./images/.jpg)
