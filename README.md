@@ -35,4 +35,7 @@ Setup Instructions:
 2. Connect the Sensors: Wire the proximity sensor and camera module to the Raspberry Pi GPIO pins.
 3. Install Software: Download and install Raspberry Pi OS on your Pi. Set up Python and required libraries like RPi.GPIO, opencv-python (if using OpenCV), and any additional dependencies.
 4. Upload Code: Clone or download the provided code repository, upload it to your Raspberry Pi, and configure the settings (camera resolution, motor directions, etc.).
-Test the Rover: Power up the rover, and run the scripts to test the sensor data, camera feed, and motor movement.
+5. Test the Rover: Power up the rover, and run the scripts to test the sensor data, camera feed, and motor movement.
+
+This project is an autonomous rover designed using a Raspberry Pi, equipped with a proximity sensor and a camera module. The rover is capable of navigating and avoiding obstacles using real-time data from the proximity sensor, while also offering the ability to capture images or video feeds through the camera module.
+![Rover Setup](./images/rover-setup.jpg)
