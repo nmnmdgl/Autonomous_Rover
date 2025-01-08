@@ -39,4 +39,4 @@ Setup Instructions:
 
 This project is an autonomous rover designed using a Raspberry Pi, equipped with a proximity sensor and a camera module. The rover is capable of navigating and avoiding obstacles using real-time data from the proximity sensor, while also offering the ability to capture images or video feeds through the camera module.
 
-![Rover Setup](./images/.jpg)
+![Front View](https://github.com/nmnmdgl/Autonomous_Rover/blob/main/images/Rover_Front.jpeg)
